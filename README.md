@@ -5,17 +5,5 @@ This repository presents a digital hologram reconstruction algorithm based on th
 
 
 ## Structure of the Repository
-Off-Axis-Hologram-Reconstruction-FRFT/
-├── python/                 # Python implementation of the algorithm
-│   ├── src/
-│   │   ├── FRFT_Algorithm/  # Core FRFT computation modules
-│   │   ├── Reconstruction/   # Hologram reconstruction scripts
-│   │   └── utils/           # Utility functions for data processing
-├── matlab/                 # MATLAB implementation of the algorithm
-│   ├── src/
-│   │   ├── FRFT_Algorithm/  # MATLAB FRFT computation modules
-│   │   ├── Reconstruction/   # MATLAB hologram reconstruction scripts
-│   │   └── utils/           # MATLAB utility functions
-├── data/                   # Sample data and test cases
-└── README.md               # This main project README
+<pre> ```text Off-Axis-Hologram-Reconstruction-FRFT/ ├── python/ # Python implementation of the algorithm │ ├── src/ │ │ ├── FRFT_Algorithm/ │ │ ├── Reconstruction/ │ │ └── utils/ ├── matlab/ # MATLAB implementation of the algorithm │ ├── src/ │ │ ├── FRFT_Algorithm/ │ │ ├── Reconstruction/ │ │ └── utils/ ├── data/ └── README.md # This main project README ``` </pre>
 
